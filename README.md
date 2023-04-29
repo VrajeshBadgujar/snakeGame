@@ -3,5 +3,6 @@ The object of the game is simple: You are controlling a snake that likes to eat 
 
 
 ![snake 1](https://user-images.githubusercontent.com/85383289/235286211-6a030e28-a2b0-4f80-b323-c1c2072d9849.jpeg)
+![snake game over](https://user-images.githubusercontent.com/85383289/235286223-86ea082d-577a-4ff9-a763-e7b72d1c3c8e.jpeg)
 
 
